@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @d4sw4r<br>👀 I’m interested in open source projects<br>🌱 I’m currently learning nothing in general<br>💞️ I’m looking to collaborate on go or python projects<br>📫 How to reach me: drop a mail
+👋 Hi, I’m Dennis<br>👀 I’m interested in technology<br>🌱 I’m currently learning the AI stuff<br>💞️ I’m looking to collaborate on go or python projects<br>📫 How to reach me: drop a mail
 
 
 # 💻 Tech Stack:
